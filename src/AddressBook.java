@@ -18,10 +18,10 @@ public class AddressBook {
         do {
             try{
                 System.out.println("Selecciona la opción que deseas realizar");
-                System.out.println("1.Cargar Datos");
-                System.out.println("2.Guardar Datos");
+                System.out.println("1.Cargar Contactos");
+                System.out.println("2.Guardar Contactos");
                 System.out.println("3.Mostrar Contactos");
-                System.out.println("4.Nuevo numero");
+                System.out.println("4.Agrgar Contacto");
                 System.out.println("5.Borrar Contacto");
                 System.out.println("6.Salir");
                 op = teclado.nextLine();
